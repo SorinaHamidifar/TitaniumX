@@ -1,2 +1,2 @@
 # 
- innovation, and performance-driven software development.
+ and performance-driven software development.
