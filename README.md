@@ -1,5 +1,5 @@
 # ==========================================
-# Project: ResilientCore performance-driven
+# Project: ResilientCore performance-dri
 # Description:
 # Focused on resilience, innovation, and
 # performance-driven software development.
