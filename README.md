@@ -11,7 +11,7 @@
 Main entry point for ResilientCore.
 """
 
-from core.resilience import ResilienceEng
+from core.resilience import ResilienceEngine
 from core.innovation import InnovationLab
 from core.performance import PerformanceEngine
 
